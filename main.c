@@ -4,6 +4,13 @@
 //
 //  Created by Vittorio Piotti on 22/08/2022.
 //
+/*
+ * Matrix Calculator C v1.0.0 (https://github.com/vittorioPiotti/Matrix-Calculator-C/releases/tag/1.0.0)
+ * Copyright 2024 Vittorio Piotti
+ * Licensed under GPL-3.0 (https://github.com/vittorioPiotti/Matrix-Calculator-C/blob/main/LICENSE.md)
+ */
+
+
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
