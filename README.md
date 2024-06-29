@@ -3,6 +3,14 @@
 Calcolatrice Matriciale sviluppata in C per tutte le operazioni con le matrici ed anche algoritmo di Laplace e calcolo della matrice inversa
 
 
+> [!TIP]
+> Algoritmi di calcolo matriciale corretti e funzionanti
+
+> [!WARNING]
+> Corretto funzionamento dell'UI non garantito
+
+
+
 ## Licenze
 
 | Componente         | Versione  | Copyright                         | Licenza                                                       |
