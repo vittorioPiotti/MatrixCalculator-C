@@ -2,6 +2,10 @@
 
 Calcolatrice Matriciale sviluppata in C per tutte le operazioni con le matrici ed anche algoritmo di Laplace e calcolo della matrice inversa
 
+> [!NOTE]
+> Il progetto è stato sviluppato a scuola per fini scolastici in funzione della consegna assegnata dal docente come lavoro individuale
+
+
 
 > [!TIP]
 > Algoritmi di calcolo matriciale corretti e funzionanti
