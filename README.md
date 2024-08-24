@@ -14,6 +14,8 @@ Calcolatrice Matriciale sviluppata in C per tutte le operazioni con le matrici e
 > Corretto funzionamento dell'UI non garantito
 
 
+## Snippet Laplace Algorithm
+
 ```c
 
 float calcolaLaplaceDeterminanteMatriceNxN(float matElemAlg[][MAXCL], int dim) {
