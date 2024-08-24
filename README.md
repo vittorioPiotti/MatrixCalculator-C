@@ -2,6 +2,11 @@
 
 Calcolatrice Matriciale sviluppata in C per tutte le operazioni con le matrici ed anche algoritmo di Laplace e calcolo della matrice inversa
 
+#### Support Me
+
+[<img width="200" src="https://github.com/vittorioPiotti/vittorioPiotti/blob/main/immagini/support.png"/>](https://ko-fi.com/vittoriopiotti)
+
+
 > [!NOTE]
 > Il progetto è stato sviluppato a scuola per fini scolastici in funzione della consegna assegnata dal docente come lavoro individuale
 
@@ -13,9 +18,6 @@ Calcolatrice Matriciale sviluppata in C per tutte le operazioni con le matrici e
 > [!WARNING]
 > Corretto funzionamento dell'UI non garantito
 
-#### Support Me
-
-[<img width="200" src="https://github.com/vittorioPiotti/vittorioPiotti/blob/main/immagini/support.png"/>](https://ko-fi.com/vittoriopiotti)
 
 
 
