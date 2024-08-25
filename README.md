@@ -19,8 +19,8 @@ Calcolatrice Matriciale sviluppata in C per tutte le operazioni con le matrici e
 
 #### Support Me
 
-[<img width="200" src="https://github.com/vittorioPiotti/vittorioPiotti/blob/main/immagini/support.png"/>](https://ko-fi.com/vittoriopiotti)
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P012BC8U)
 
 
 ## Snippet Laplace Algorithm
