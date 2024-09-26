@@ -57,4 +57,4 @@ float calcolaLaplaceDeterminanteMatriceNxN(float matElemAlg[][MAXCL], int dim) {
 
 | Componente         | Versione  | Copyright                         | Licenza                                                       |
 |--------------------|-----------|-----------------------------------|---------------------------------------------------------------|
-| [MatrixCalculator](https://github.com/vittorioPiotti/MatrixCalculator-C) | [v1.0.0](https://github.com/vittorioPiotti/MatrixCalculator-C/releases/tag/v1.0.0)    | 2024 Vittorio Piotti [(GitHub page)](https://github.com/vittorioPiotti) [(Personal page)](https://vittoriopiotti.altervista.org/)            | [GPL-3.0 ](https://github.com/vittorioPiotti/Dijkstra-Bootstrap/blob/main/LICENSE.md) |
+| [MatrixCalculator](https://github.com/vittorioPiotti/MatrixCalculator-C) | [v1.0.0](https://github.com/vittorioPiotti/MatrixCalculator-C/releases/tag/v1.0.0)    | 2024 Vittorio Piotti [(GitHub page)](https://github.com/vittorioPiotti) [(Personal page)](https://vittoriopiotti.altervista.org/)            | [GPL-3.0 ](https://github.com/vittorioPiotti/MatrixCalculator-C/blob/main/LICENSE.md) |
